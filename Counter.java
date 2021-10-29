@@ -1,3 +1,7 @@
+/**
+@authors Jyoji Maruishi
+@version 10-29-21
+*/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
